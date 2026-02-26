@@ -1,0 +1,919 @@
+1
+00:00:05,000 --> 00:00:08,000
+本字幕由李献兵制作，部分音频缺失
+嘿，先锋们，我是 Nicolas Kokkalis。
+
+2
+00:00:08,000 --> 00:00:09,500
+And I'm Chengdiao Fan.
+我是 Chengdiao Fan。
+
+3
+00:00:09,500 --> 00:00:16,500
+And today, we are excited to celebrate with the community the one-year anniversary of Pi's Open Network launch.
+今天，我们非常高兴能与社区共同庆祝 Pi 开放网络（Open Network）上线一周年。
+
+4
+00:00:16,500 --> 00:00:25,000
+Open Network, which was officially launched on February 20th, 2025, was a pivotal point in Pi's history.
+开放网络于2025年2月20日正式上线，这是 Pi 历史上的一个关键转折点。
+
+5
+00:00:25,000 --> 00:00:33,000
+Connecting Pi's blockchain, identity-verified community, and Web3 ecosystem with the external world.
+它将 Pi 的区块链、经过身份验证的社区以及 Web3 生态系统与外部世界连接了起来。
+
+6
+00:00:33,000 --> 00:00:41,000
+As many Pioneers know, the Pi community collectively put in an incredible amount of work and contributions...
+正如许多先锋所知，Pi 社区共同投入了难以置信的努力和贡献……
+
+7
+00:00:41,000 --> 00:00:49,000
+to build out the ecosystem over six years to ensure Pi's readiness and sustainable utility in the Open Network phase.
+在六年里构建生态系统，以确保 Pi 在开放网络阶段的准备就绪和可持续的实用价值。
+
+8
+00:00:49,000 --> 00:00:58,000
+Since the Open Network launch, Pi's journey has continued to make progress in line with Pi's long-term vision and strategy.
+自开放网络上线以来，Pi 的旅程继续按照其长期愿景和战略取得进展。
+
+9
+00:00:58,000 --> 00:01:06,000
+To create an inclusive, utility-driven, and widely adopted cryptocurrency that is broadly accessible.
+致力于打造一种具有包容性、以应用驱动、被广泛采用且易于获取的加密货币。
+
+10
+00:01:06,000 --> 00:01:13,000
+This approach, the focus on utility, mass adoption, and user experience...
+这种侧重于实用价值、大规模采用和用户体验的方法……
+
+11
+00:01:13,000 --> 00:01:20,000
+is essential for any blockchain's success and differentiates Pi from the broader blockchain industry.
+对任何区块链的成功都至关重要，也使 Pi 在更广泛的区块链行业中脱颖而出。
+
+12
+00:01:20,000 --> 00:01:28,000
+Over the past year alone, there have been incredible advances in Pi's ecosystem activity, app development initiatives and tools...
+仅在过去的一年里，Pi 的生态活跃度、应用开发计划和工具……
+
+13
+00:01:28,000 --> 00:01:33,000
+and innovative product and platform level utility releases.
+以及创新产品和平台级实用功能的发布，就取得了惊人的进展。
+
+14
+00:01:33,000 --> 00:01:42,000
+A few highlights include the AI-assisted Pi App Studio tool, the Pi Network Ventures initiative to invest in innovative startups and businesses...
+部分亮点包括：AI辅助的 Pi App Studio 工具、旨在投资创新初创企业的 Pi Network Ventures 创投计划……
+
+15
+00:01:42,000 --> 00:01:48,000
+DEX, AMM, and token creation features, and much more.
+去中心化交易所（DEX）、自动做市商（AMM）及代币创建功能等等。
+
+16
+00:01:48,000 --> 00:01:59,000
+In the year to come, Pi will focus on expanding apps and utility creation opportunities, aligning Web3 tools with innovation creation...
+在未来的一年里，Pi 将专注于拓展应用和实用价值的创造机会，将 Web3 工具与真正的创新结合起来……
+
+17
+00:01:59,000 --> 00:02:05,000
+solving fundamental problems such as digital identity for crypto's integration into the real world...
+解决加密货币融入现实世界的基本问题，比如“数字身份”……
+
+18
+00:02:05,000 --> 00:02:13,000
+interoperability, improving user experience, and enabling more meaningful participation across the ecosystem.
+互操作性、改善用户体验，并促进在整个生态系统中进行更有意义的参与。
+
+19
+00:02:13,000 --> 00:02:25,000
+Pi is improving the tools and experiences that make it easy for developers, businesses, and pioneers to build, participate, and create, all while expanding the utility of Pi.
+Pi 正在不断改进工具和体验，让开发者、企业和先锋们更容易构建、参与和创造，同时不断扩大 Pi 的应用场景。
+
+20
+00:02:25,000 --> 00:02:35,000
+This is how Pi continues to turn its long-term vision into lived reality and the realization of the true promise of blockchain and Web3.
+这就是 Pi 如何继续将其长期愿景转化为现实，并实现区块链和 Web3 真正承诺的方式。
+
+21
+00:02:35,000 --> 00:02:49,000
+Now, let's dive deeper. Nicolas and I will answer a series of questions that further explore Pi's strategy and approach since Open Network and moving forward.
+现在，让我们深入探讨。Nicolas 和我将回答一系列问题，进一步探索 Pi 自开放网络以来的战略、方法以及未来的发展。
+
+22
+00:02:49,000 --> 00:02:56,000
+And we'll give the Pioneer community more insight into what is being done.
+我们将让先锋社区对目前正在进行的工作有更深入的了解。
+
+23
+00:02:56,000 --> 00:03:00,000
+Why does Pi feel so different from other blockchains? Why does utility matter?
+【旁白】为什么 Pi 感觉与其他区块链如此不同？为什么实用价值如此重要？
+
+24
+00:03:00,000 --> 00:03:04,000
+Pi feels different from other blockchains because Pi is different.
+Pi 感觉与其他区块链不同，因为 Pi 本质上就与众不同。
+
+25
+00:03:04,000 --> 00:03:08,000
+When Open Network launched a year ago, I described Pi as a non-conformist.
+当开放网络在一年前上线时，我将 Pi 描述为一个不墨守成规者。
+
+26
+00:03:08,000 --> 00:03:12,000
+And that still holds. Pi differentiates itself in several fundamental ways.
+这一点至今依然适用。Pi 在几个基本方面与众不同。
+
+27
+00:03:12,000 --> 00:03:20,000
+Pi never did an ICO, Pi is free to mine for accessibility, it's mobile-first, Pi's Mainnet blockchain is fully KYC'ed.
+Pi 从未进行过 ICO，它可以免费挖矿以确保所有人都能参与，它是移动端优先的，并且 Pi 的主网区块链是经过全面 KYC（身份认证）的。
+
+28
+00:03:20,000 --> 00:03:30,000
+And Pi has tens of millions of verified users globally. And from the very beginning, Pi has emphasized utility.
+而且 Pi 在全球拥有数千万经过验证的用户。从一开始，Pi 就极度强调实用价值（Utility）。
+
+29
+00:03:30,000 --> 00:03:40,000
+In the broader crypto community, with thousands of cryptocurrencies and digital assets, trading inevitably is a major focus.
+在更广泛的加密社区中，有着数以千计的加密货币和数字资产，交易不可避免地成为了主要焦点。
+
+30
+00:03:40,000 --> 00:03:48,000
+Trading mechanisms themselves—DeFi, liquidity, market infrastructure—are important areas of innovation.
+交易机制本身——比如 DeFi（去中心化金融）、流动性、市场基础设施——确实是重要的创新领域。
+
+31
+00:03:48,000 --> 00:03:56,000
+But beyond how trading happens, there is a more fundamental question: What are people actually trading?
+但在“交易如何发生”之外，还有一个更根本的问题：人们实际上在交易什么？
+
+32
+00:03:56,000 --> 00:04:08,000
+The problem Pi set out to solve is not just whether trading is possible or how efficiently it can occur, but the much harder problem of what should be traded.
+Pi 着手解决的问题不仅仅是交易是否可行，或者交易效率有多高，而是要解决“应该交易什么”这个困难得多的问题。
+
+33
+00:04:08,000 --> 00:04:18,000
+If it were only about enabling trading, you could issue a large number of fake or meaningless tokens, just like many we see even on testnet.
+如果仅仅是为了促成交易，你可以发行大量虚假或毫无意义的代币，就像我们在测试网上看到的许多代币一样。
+
+34
+00:04:18,000 --> 00:04:29,000
+And trading could start immediately. Volumes could be high as long as people participate. But if those tokens don't map to anything real, what's the point?
+交易可以立即开始。只要有人参与，交易量就能刷得很高。但如果这些代币不能映射到任何真实事物上，那又有什么意义呢？
+
+35
+00:04:29,000 --> 00:04:48,000
+The hard problem is figuring out how tokens can be used in real-world applications, in commerce involving real goods and services, or how they can be used to participate meaningfully in business and production processes.
+真正的难题在于，弄清楚代币如何应用于现实世界的应用程序中，如何用于涉及真实商品和服务的商业流通中，或者它们如何被用来有意义地参与到商业和生产过程中。
+
+36
+00:04:48,000 --> 00:04:52,000
+That's where utility comes in.
+这就是实用价值的用武之地。
+
+37
+00:04:52,000 --> 00:05:02,000
+Historically, Pi has emphasized using Pi for real goods and services, in local commerce, and across Pi apps in the Pi Browser.
+从历史上看，Pi 一直强调将 Pi 用于真实的商品和服务、本地商业，以及 Pi 浏览器（Pi Browser）中的各种 Pi 应用中。
+
+38
+00:05:02,000 --> 00:05:17,000
+From e-commerce and games to social and educational applications. Whether it's Pi itself or ecosystem tokens built on Pi, utility tokens need to be embedded into specific products and real usage flows.
+从电子商务和游戏，到社交和教育应用。无论是 Pi 本身，还是构建在 Pi 上的生态系统代币，实用型代币都需要被嵌入到具体产品和真实的使用流程中。
+
+39
+00:05:17,000 --> 00:05:23,000
+Not just abstract financial mechanisms.
+而不仅仅是作为抽象的金融机制。
+
+40
+00:05:23,000 --> 00:05:33,000
+Utility also connects with Pi's focus on KYC identity verification. Pi's fully KYC'ed network was fundamental in preparing the blockchain for real-world assets and production processes.
+实用价值也与 Pi 对 KYC 身份验证的专注息息相关。Pi 全面完成 KYC 的网络，是让区块链为现实世界资产和生产过程做好准备的基础。
+
+41
+00:05:33,000 --> 00:05:48,000
+People sometimes ask why hackathon-winning apps on Pi look so different from typical crypto projects, like dating apps or e-commerce platforms instead of purely DeFi products.
+人们有时会问，为什么在 Pi 上赢得黑客松的应用看起来与典型的加密项目如此不同，比如它们更像是约会应用或电商平台，而不是纯粹的 DeFi 产品。
+
+42
+00:05:48,000 --> 00:06:04,000
+That difference is intentional. Pi prioritizes applications that solve real-world problems and fulfill real-world needs, not just creations in financial mechanics. DeFi mechanisms matter only if there is real utility and production involved.
+这种差异是有意为之的。Pi 优先考虑那些解决现实世界问题并满足现实世界需求的应用，而不仅仅是金融机制的创造。只有在涉及真正的实用价值和生产时，DeFi 机制才有意义。
+
+43
+00:06:04,000 --> 00:06:17,000
+It's easy to enable fast, high-volume trading. It's much harder to enable tokens to be used inside real products that support real-world innovation and economic activity.
+实现快速、大宗的交易很容易。但要让代币在支持现实世界创新和经济活动的真实产品中被使用，则要困难得多。
+
+44
+00:06:17,000 --> 00:06:36,000
+But the harder path is worth taking. We believe that only by persistently trying to solve this complex and challenging problem—how blockchain and crypto mechanisms can actually be used to facilitate real-world production—can Web3 achieve meaningful breakthroughs.
+但这条更艰难的道路是值得走的。我们相信，只有坚持不懈地尝试解决这个复杂且具有挑战性的问题——即如何将区块链和加密机制实际用于促进现实世界的生产——Web3 才能实现有意义的突破。
+
+45
+00:06:36,000 --> 00:06:53,000
+This path may take more time, more grit, and it may appear different, but this is the path Pi has chosen from day one. And it's the path the broader crypto industry will eventually need to take to overcome its own challenges.
+这条道路可能需要更多时间、更多毅力，而且看起来可能与众不同，但这是 Pi 从第一天起就选择的道路。这也是更广泛的加密行业最终需要采取的道路，以克服其自身的挑战。
+
+46
+00:06:53,000 --> 00:07:07,000
+This philosophy goes all the way back to Pi's original design. Pi was designed to be freely accessible, allowing anyone to mine without financial barriers or out-of-pocket costs.
+这种理念可以追溯到 Pi 的最初设计。Pi 被设计成可以免费获取的，允许任何人无需财务门槛或自掏腰包即可挖矿。
+
+47
+00:07:07,000 --> 00:07:28,000
+That design not only permitted wide distribution and inclusivity, but it also enabled the network and all participants in the network to afford the patience to engage in the difficult work necessary to establish a fully functioning ecosystem predicated on utility.
+这一设计不仅实现了广泛的分配和包容性，而且还使得网络以及网络中的所有参与者都有足够的耐心，去从事那些为了建立一个完全基于实用价值运作的生态系统所必需的艰巨工作。
+
+48
+00:07:28,000 --> 00:07:35,000
+There are already many cryptocurrencies taking the other path. Why not try this path with Pi for free?
+已经有很多加密货币走上了另一条（炒作）路。为什么不通过 Pi 免费尝试这条全新的路呢？
+
+49
+00:07:35,000 --> 00:07:38,000
+What is the network working on now?
+【旁白】网络目前正在开展什么工作？
+
+50
+00:07:38,000 --> 00:08:00,000
+Well of course, the network will continue the general work that matters to Pioneers, such as KYC and migration, and to developers, such as improving and expanding the tools that enable them to build easier on Pi, and various initiatives that are intended to facilitate further utility on Pi.
+当然，网络将继续开展对先锋们至关重要的基础工作，例如 KYC 和主网迁移；以及对开发者至关重要的工作，比如改进和扩展工具以使他们在 Pi 上更容易构建应用，还有各种旨在促进 Pi 进一步发挥实用价值的举措。
+
+51
+00:08:00,000 --> 00:08:18,000
+KYC and migration remain a top priority. We are increasing KYC throughput, unblocking more users, increasing speed through further AI integrations in the KYC process, and continuing migrations and enabling second migrations so more Pioneers can fully participate in the Mainnet ecosystem.
+KYC 和主网迁移仍然是首要任务。我们正在提高 KYC 的吞吐量，为更多用户解除限制，通过在 KYC 流程中进一步整合 AI 来提高审批速度，并继续推进迁移、启用“二次迁移”，以便更多先锋能够完全参与到主网生态系统中。
+
+52
+00:08:18,000 --> 00:08:28,000
+We are also on track to roll out KYC Validator rewards this quarter in a secure and scalable way.
+我们也有望在本季度以安全且可扩展的方式，正式推出 KYC 验证者奖励（Validator rewards）。
+
+53
+00:08:28,000 --> 00:08:48,000
+In terms of developer tools and support, we are supporting developers, lowering the barrier to building on Pi through improved tooling and simpler integrations, including new tools like much faster Pi payment setups, along with ongoing support to help developers launch and scale real utilities.
+在开发者工具和支持方面，我们致力于通过改进的工具和更简单的集成来降低在 Pi 上构建的门槛，包括提供更快设置 Pi 支付的新工具，以及持续提供支持，帮助开发者启动和扩展真实的实用应用。
+
+54
+00:08:48,000 --> 00:09:03,000
+AI and utility creation is also important. We are expanding the App Studio with broader access, new payment integrations, and deeper AI capabilities to help apps move from idea to production faster.
+AI 与实用价值的创造同样重要。我们正在扩大 App Studio 的访问权限，增加新的支付集成以及更深度的 AI 功能，以帮助应用更快地从创意走向实际生产。
+
+55
+00:09:03,000 --> 00:09:18,000
+At the network level, we're continuing to work on Nodes, protocol upgrades, and components like DEX functionality and liquidity pools, all to support real usable applications and activities on Pi.
+在网络底层，我们将继续在节点（Nodes）、协议升级，以及诸如 DEX（去中心化交易所）功能和流动性池等组件上发力，所有这些都是为了支持 Pi 上真正可用的应用程序和商业活动。
+
+56
+00:09:18,000 --> 00:09:32,000
+Pi Network Ventures continues to invest in startups and businesses across stages and industries with the focus of advancing real-world utility and production on Pi Network.
+Pi Network 创投基金将继续投资于不同阶段和行业的初创企业及商业项目，重点是推进 Pi 网络在现实世界中的实用价值和生产力。
+
+57
+00:09:32,000 --> 00:09:51,000
+Finally, Pi Network remains committed to supporting and fostering a strong community through events like Pi Day, hackathons, local commerce, and more, and through ongoing education and communication on Pi's approach, products, features, milestones, and ecosystem.
+最后，Pi 网络始终致力于通过诸如 Pi Day（圆周率日）、黑客松、本地商业等活动，以及针对 Pi 的战略、产品、特性、里程碑和生态系统的持续教育与沟通，来支持和培养一个强健的社区。
+
+58
+00:09:51,000 --> 00:09:59,000
+What are Pi ecosystem tokens, and what is the design thinking for ecosystem tokens on Mainnet?
+【旁白】什么是 Pi 生态系统代币？主网上生态系统代币的设计理念是什么？
+
+59
+00:09:59,000 --> 00:10:05,000
+Pi Ecosystem tokens are tokens created by the community and issued on Pi.
+Pi 生态系统代币是由社区创建并在 Pi 上发行的代币。
+
+60
+00:10:05,000 --> 00:10:11,500
+As many of you know, ecosystem tokens have already been released on Testnet, and we are finalizing their implementation on Mainnet.
+正如许多人所知，生态代币已经在测试网上发布，我们正在敲定它们在主网上的部署。
+
+61
+00:10:11,500 --> 00:10:17,000
+While technology and product are obviously important, we believe the most critical factor on Mainnet will be their design.
+虽然技术和产品显然很重要，但我们认为主网上最关键的因素将是它们的设计机制。
+
+62
+00:10:17,000 --> 00:10:25,500
+As I mentioned in my recent Token2049 talk, the ability to issue tokens is an important superpower of Web3...
+正如我在最近的 Token2049 演讲中提到的，发行代币的能力是 Web3 的一个重要“超能力”……
+
+63
+00:10:25,500 --> 00:10:33,000
+but a core issue in the broader crypto space is the misalignment between token design and real innovation.
+但在更广泛的加密领域中，一个核心问题是代币设计与真正的创新之间存在错位。
+
+64
+00:10:33,000 --> 00:10:39,000
+Tokens on most other crypto networks function primarily as tools to raise capital.
+大多数其他加密网络上的代币主要作为“筹集资金”的工具。
+
+65
+00:10:39,000 --> 00:10:47,000
+Yet, despite this approach, most of those projects frequently fail to provide meaningful utility and innovation.
+然而，尽管采用了这种方式，大多数项目通常仍无法提供有意义的实用价值和创新。
+
+66
+00:10:47,000 --> 00:10:50,000
+We see this as a structural problem.
+我们认为这是一个结构性问题。
+
+67
+00:10:50,000 --> 00:10:52,500
+But what's the solution?
+但解决方案是什么？
+
+68
+00:10:52,500 --> 00:11:00,000
+What else can tokens actually be used for from the perspective of a business?
+从企业的角度来看，代币实际上还能用来做什么？
+
+69
+00:11:00,000 --> 00:11:10,000
+And if startup and business founders cannot use tokens primarily for raising capital, why would they issue and operate a token at all, given the effort it takes to do so?
+如果初创公司和企业创始人不能主要利用代币来筹资，考虑到这需要付出巨大的精力，他们为什么还要发行和运营代币呢？
+
+70
+00:11:10,000 --> 00:11:16,000
+This is where Pi is uniquely positioned to provide a different answer.
+这正是 Pi 占据独特优势、能够提供不同答案的地方。
+
+71
+00:11:16,000 --> 00:11:23,000
+Pi's approach is to integrate crypto tokens directly into the evolutionary process for products and innovations.
+Pi 的方法是将加密代币直接整合到产品和创新的演进过程中。
+
+72
+00:11:23,000 --> 00:11:34,000
+Pi strongly encourages and emphasizes the focus on utility because utility enables the long-term stability and sustainability and success for any blockchain project.
+Pi 强烈鼓励并强调专注于实用价值，因为实用价值能够实现任何区块链项目的长期稳定、可持续性和成功。
+
+73
+00:11:34,000 --> 00:11:43,000
+Pi itself is a utility token, and ecosystem tokens on Pi are likewise encouraged to be focused on and used for utility.
+Pi 本身就是一种实用型代币，因此也同样鼓励 Pi 上的生态系统代币专注于实用价值并被应用于实际中。
+
+74
+00:11:43,000 --> 00:11:55,000
+While many types of tokens can be issued on the blockchain, Pi's current launch programs intentionally encourage a completely new design construct, based on Pi's existing resources and infrastructure.
+虽然区块链上可以发行许多类型的代币，但 Pi 当前的启动计划有意鼓励一种全新的设计结构，该结构基于 Pi 现有的资源和基础设施。
+
+75
+00:11:55,000 --> 00:11:59,000
+Utility tokens designed for user acquisition.
+即：专为“获取用户”而设计的实用型代币。
+
+76
+00:11:59,000 --> 00:12:12,000
+Tokens for user acquisition through the Pi launch programs mean that projects issue tokens 此处AI宕机兵哥表示抱歉
+
+77
+00:12:12,000 --> 00:12:21,000
+...to fulfill the need to acquire users for their products, and integrate these tokens for utility-based use cases inside their products.
+……来满足其产品获取用户的需求，并将这些代币整合到其产品内部基于实用价值的使用场景中。
+
+78
+00:12:21,000 --> 00:12:29,000
+Users get to access these tokens through the launch programs, and then able to use the tokens in the products.
+用户可以通过启动计划获取这些代币，然后能够在产品中使用这些代币。
+
+79
+00:12:29,000 --> 00:12:37,000
+Pi is staked and used in the above mechanisms to orchestrate and facilitate the process.
+Pi 会在上述机制中被质押和使用，以协调和促进这一过程。
+
+80
+00:12:37,000 --> 00:12:47,000
+Pi has millions of users around the world, including not only crypto-native users but more importantly mainstream audiences.
+Pi 在全球拥有数百万用户，这不仅包括加密原生用户，更重要的是包括了庞大的主流受众。
+
+81
+00:12:47,000 --> 00:12:51,000
+Many of whom are already identity-verified.
+其中许多人已经完成了身份验证（KYC）。
+
+82
+00:12:51,000 --> 00:13:03,000
+For product builders and businesses, high-quality users and global reach are some of the most valuable resources that are essential to a product's success.
+对于产品构建者和企业来说，高质量的用户群体和全球影响力是产品成功不可或缺的最宝贵资源。
+
+83
+00:13:03,000 --> 00:13:16,000
+Pi's goal is to design ecosystem tokens as powerful tools that allow startups and businesses to acquire users, including from Pi Network, with user consent, and then facilitate the growth of their businesses.
+Pi 的目标是将生态系统代币设计成强大的工具，使初创企业和商业项目能够在用户同意的情况下获取用户（包括从 Pi 网络中引流），从而促进其业务的增长。
+
+84
+00:13:16,000 --> 00:13:26,000
+Early-stage user acquisition is typically very expensive for startups.
+在早期阶段，获取新用户对初创企业来说通常是非常昂贵的。
+
+85
+00:13:26,000 --> 00:13:42,000
+By using Web3 tools like Pi ecosystem tokens, startups can reduce the cost of user acquisition while also involving users directly in their projects to obtain feedback, test product attributes and functions...
+通过使用诸如 Pi 生态系统代币之类的 Web3 工具，初创企业可以降低获客成本，同时让用户直接参与到他们的项目中，以获取反馈、测试产品属性和功能……
+
+86
+00:13:42,000 --> 00:13:50,000
+and validate the use of their product to address real human needs.
+并验证其产品在满足真实人类需求方面的实际用途。
+
+87
+00:13:50,000 --> 00:14:05,000
+Acquired users also help to hold businesses accountable for the services they provide on an ongoing basis. If their product does not maintain utility, quality, and engagement, users may end up leaving their products.
+获取的用户还可以帮助监督企业，促使其对持续提供的服务负责。如果他们的产品无法保持实用性、质量和用户参与度，用户最终可能会选择离开。
+
+88
+00:14:05,000 --> 00:14:19,000
+Organic user acquisition and retention are natural mechanisms by which projects are encouraged to create and provide useful services, which is in line with the original intent: real products with innovation.
+有机的用户获取和留存是一种自然机制，它鼓励项目方去创造和提供有用的服务，这符合 Pi 的初衷：即拥有真正创新的真实产品。
+
+89
+00:14:19,000 --> 00:14:32,000
+On the other hand, from the users' perspective, they will have their free choice to join and use different products like they always do in Web2...
+另一方面，从用户的角度来看，他们将可以自由选择加入和使用不同的产品，就像他们在传统 Web2 世界中一直做的那样……
+
+90
+00:14:32,000 --> 00:14:43,000
+with the difference that they can access the utility token issued by the projects through the Pi launch programs (DEX and AMM) and use these tokens in the projects' products.
+区别在于，他们可以通过 Pi 的启动计划（如去中心化交易所 DEX 和自动做市商 AMM）获取项目方发行的实用型代币，并在项目产品中使用这些代币。
+
+91
+00:14:43,000 --> 00:14:54,000
+In this way, we believe this design can better align the unique capabilities of Web3, such as token issuance, with support for innovative products.
+通过这种方式，我们相信这种设计能够更好地将 Web3 的独特能力（例如代币发行）与对创新产品的支持结合起来。
+
+92
+00:14:54,000 --> 00:15:04,000
+Pi ecosystem tokens are not about copying existing token models. In fact, we deliberately have sought to avoid the traditional approach...
+Pi 生态系统代币并不是要复制现有的代币模型。事实上，我们刻意寻求避免采用传统的发币套路……
+
+93
+00:15:04,000 --> 00:15:15,000
+because many of the problems in Web3 stem from how tokens have traditionally been designed. And this design will also evolve as it gets iterated in practice.
+因为 Web3 中的许多问题，正是源于代币传统的投机设计方式。而我们的这个新设计，也会在实践迭代中不断演进。
+
+94
+00:15:15,000 --> 00:15:28,000
+An equally important difference lies in the types of projects encouraged to launch on Pi. Instead of focusing on token issuers whose primary intent is to issue a token and then try to build a business around it...
+一个同样重要的区别，在于我们鼓励在 Pi 上启动的项目类型。我们不把重点放在那些只想发币、然后再试着围绕代币编造业务的发行方身上……
+
+95
+00:15:28,000 --> 00:15:44,000
+Pi wants to prioritize businesses with real products who start with a genuine problem to solve, and then use a token as a tool to help them do that better and grow their products.
+Pi 希望优先考虑那些拥有真实产品的企业，他们从解决一个真正的问题出发，然后将代币作为一种工具，帮助他们更好地解决问题并发展产品。
+
+96
+00:15:44,000 --> 00:15:59,000
+Of course, ecosystem tokens also involve technical considerations such as interoperability and standard crypto integrations, for which Pi draws on the work and innovations of the general crypto space.
+当然，生态系统代币也涉及到互操作性和标准加密集成等技术考量，为此 Pi 借鉴了整个加密行业现有的工作成果和创新。
+
+97
+00:15:59,000 --> 00:16:14,000
+Pi's focus is not on tokens for their own sake, or on mechanisms and integrations in isolation, but on enabling useful utility-driven tokens and supporting the real innovation behind them.
+Pi 的关注点不在于为了发币而发币，也不在于孤立的技术机制集成，而在于赋能具有实用价值的代币，并支持它们背后的真正创新。
+
+98
+00:16:14,000 --> 00:16:26,000
+From there, Pi platform designs the tools, enables the integrations, and supports the infrastructure that these products actually need to succeed and grow.
+以此为出发点，Pi 平台设计相关工具、促成系统集成，并提供这些产品成功与发展真正需要的基础设施。
+
+99
+00:16:26,000 --> 00:16:30,000
+What is the significance of Pi KYC, and what's next?
+【旁白】Pi KYC 的重要性是什么？接下来会有什么动作？
+
+100
+00:16:30,000 --> 00:16:38,000
+As Pioneers know, our community has spent years collectively building Pi's KYC solution...
+正如先锋们所知，我们的社区花费了数年时间共同构建了 Pi 的 KYC 解决方案……
+
+101
+00:16:38,000 --> 00:16:45,000
+from the underlying technology and product design, to bootstrapping a global network of human validators...
+从底层技术和产品设计，到建立一个全球性的人类验证者网络……
+
+102
+00:16:45,000 --> 00:16:53,000
+from building validator workflows across many regions of the world, to producing designs preserving user privacy.
+从在世界诸多地区建立验证者工作流，到制定保护用户隐私的设计机制。
+
+103
+00:16:53,000 --> 00:17:02,000
+Because Pioneers are distributed globally, the Pi KYC solution had to achieve broad geographic coverage and scalability.
+由于先锋分布在全球各地，Pi 的 KYC 解决方案必须实现广泛的地理覆盖和极高的可扩展性。
+
+104
+00:17:02,000 --> 00:17:13,000
+And beyond standard identity verification, the Pi KYC solution also integrates sanction screening and compliance checks into a single system.
+除了标准的身份验证之外，Pi KYC 解决方案还将制裁筛查和合规检查整合到了一个单一系统中。
+
+105
+00:17:13,000 --> 00:17:18,000
+There were several reasons we chose to invest so heavily in KYC.
+我们之所以选择在 KYC 上投入如此巨大的精力，有几个原因。
+
+106
+00:17:18,000 --> 00:17:25,000
+From Pi Network's perspective, it is foundational to the integrity and authenticity of the network.
+从 Pi Network 的角度来看，它是维护网络完整性和用户真实性的基础。
+
+107
+00:17:25,000 --> 00:17:36,000
+We also wanted to mitigate the need for Pioneers to pay out-of-pocket in order to verify their identity, and thereby ensure accessibility for the entire community.
+我们也希望免除先锋为了验证身份而自掏腰包（花钱找第三方）的需要，从而确保整个社区都能无门槛参与。
+
+108
+00:17:36,000 --> 00:17:46,000
+From a Web3 utility and industry perspective, we see KYC as a critical, unsolved problem in Web3, and an essential step before the mass adoption of blockchain technology.
+从 Web3 的实用价值和行业视角来看，我们认为 KYC 是 Web3 中一个关键且尚未解决的难题，也是大规模采用区块链技术前必不可少的一步。
+
+109
+00:17:46,000 --> 00:17:56,000
+These considerations drove us to build KYC in-house, rather than outsourcing it.
+这些考量促使我们选择内部自主研发 KYC 系统，而不是将其外包。
+
+110
+00:17:56,000 --> 00:18:01,000
+But KYC is not just something Pi needs internally.
+但 KYC 不仅仅是 Pi 内部需要的东西。
+
+111
+00:18:01,000 --> 00:18:08,000
+The next stage of this initiative is treating KYC itself as a service—KYC as a platform capability.
+这一举措的下一阶段，是将 KYC 本身作为一种服务——将 KYC 打造为一种平台级能力（KYC-as-a-Service）。
+
+112
+00:18:08,000 --> 00:18:16,000
+Identity is fundamental to any meaningful integration with the real-world economy.
+对于任何想要与现实世界经济产生有意义整合的项目来说，身份都是基础。
+
+113
+00:18:16,000 --> 00:18:22,000
+Any transfers of value, ownership, and changes in ownership...
+任何价值转移、所有权确认以及所有权的变更……
+
+114
+00:18:22,000 --> 00:18:26,000
+inevitably raise the question of “who are the participants?”
+不可避免地都会引发一个问题：“参与者到底是谁？”
+
+115
+00:18:26,000 --> 00:18:32,000
+That is fundamentally an identity—and therefore a KYC—problem.
+从根本上说，这是一个身份问题，也就是一个 KYC 问题。
+
+116
+00:18:32,000 --> 00:18:48,000
+In the near term, and as an evolution of what we have already developed, we will offer the technology and product of KYC—importantly, not the data—as a service to other projects, be it Web3 or traditional businesses.
+在短期内，作为我们现有开发成果的延伸，我们将把 KYC 的技术和产品——最重要的是，绝不包含用户隐私数据——作为一项服务，提供给其他项目，无论是 Web3 还是传统企业。
+
+117
+00:18:48,000 --> 00:18:57,000
+This means providing APIs that allow external services to use the Pi KYC solution at scale.
+这意味着我们会提供 API 接口，允许外部服务大规模调用 Pi 的 KYC 验证方案。
+
+118
+00:18:57,000 --> 00:19:02,000
+While KYC providers already exist, Pi's approach is distinctive in several ways:
+虽然市面上已经有专业的 KYC 提供商，但 Pi 的方法在几个方面独具优势：
+
+119
+00:19:02,000 --> 00:19:11,000
+Our global geographic coverage, scalability, our hybrid model combining AI and human verification...
+我们具有全球地理覆盖范围、超高可扩展性，以及我们首创的结合了 AI 与人工验证的混合模型……
+
+120
+00:19:11,000 --> 00:19:26,000
+and the completeness of the solution where Pi KYC addresses not just identity verification but also sanction checks for compliance, human validator workflows, cross network comparisons, and support for different regulatory formats.
+还有解决方案的完整性。Pi KYC 不仅能解决身份验证，还包括用于合规的制裁筛查、人类验证者工作流、跨网络比对，并支持不同国家的监管格式。
+
+121
+00:19:26,000 --> 00:19:41,000
+We are also integrating additional modalities, such as palmprint verification, to further strengthen matching and authentication, accommodating the aptitude of the industry in regards to identity verification.
+我们还在整合更多维度的验证模式，比如掌纹验证（palmprint verification），以进一步加强匹配和身份认证，适应整个行业对身份验证能力不断提升的需求。
+
+122
+00:19:41,000 --> 00:19:50,000
+Looking long-term now, the fact that Pi Network itself is KYC'd becomes a powerful network-level collective resource.
+现在从长远来看，Pi Network 本身是一个已全面通过 KYC 的网络，这一事实将成为一种极其强大的“网络级集体资源”。
+
+123
+00:19:50,000 --> 00:20:00,000
+Users retain control over their own identity and data, but they also gain the option to participate in applications built on top of an identity-verified network.
+用户保留了对自己身份和数据的绝对控制权，但他们也获得了选择权，可以一键参与到构建在这个身份验证网络之上的所有应用程序中。
+
+124
+00:20:00,000 --> 00:20:10,000
+That network, in turn, provides utility to external services that need trustworthy human identity verification.
+反过来，我们的网络也为那些迫切需要“值得信赖的真人身份验证”的外部服务，提供了巨大的实用价值。
+
+125
+00:20:10,000 --> 00:20:20,000
+This matters well beyond Pi. Solving KYC is a prerequisite for many major challenges in Web3, including real-world assets.
+这远远超出了 Pi 本身的意义。解决 KYC 问题是应对 Web3 中许多重大挑战（包括现实世界资产 RWA 上链）的核心先决条件。
+
+126
+00:20:20,000 --> 00:20:36,000
+More broadly, in an AI-driven world filled with bots and agents that can increasingly mimic human behavior, the ability to answer a simple but critical question—who is real?—becomes essential.
+更广泛地说，在一个由 AI 驱动、充斥着越来越能模仿人类行为的机器人和智能体的世界里，能够回答一个简单却至关重要的问题——“谁是真实的真人？”——变得不可或缺。
+
+127
+00:20:36,000 --> 00:20:41,000
+Today, we've already KYC'd tens of millions of Pioneers.
+如今，我们已经为数千万的先锋成功完成了 KYC。
+
+128
+00:20:41,000 --> 00:20:56,000
+And by opening KYC as a service to other networks and applications, it also becomes an important gateway to allow for the onboarding of non-Pi users into the Pi ecosystem.
+而通过将 KYC 作为一项服务开放给其他网络和应用程序，它同时也成为了一个重要的大门，让“非 Pi 用户”也能顺畅地融入到 Pi 生态系统中来。
+
+129
+00:20:56,000 --> 00:21:02,000
+Why is Pi focusing on AI? What does AI have to do with blockchain?
+【旁白】为什么 Pi 要关注人工智能（AI）？AI 和区块链有什么关系？
+
+130
+00:21:02,000 --> 00:21:08,000
+AI is fundamentally changing how value and production are created in the world.
+AI 正在从根本上改变这个世界创造价值和生产力的方式。
+
+131
+00:21:08,000 --> 00:21:13,000
+This shift inevitably introduces new challenges for humanity.
+这种转变不可避免地给人类带来了全新的挑战。
+
+132
+00:21:13,000 --> 00:21:20,000
+As AI increasingly drives production, traditional labor is no longer a reliable basis for how wealth is distributed.
+随着 AI 越来越多地驱动生产，传统劳动力不再是财富分配的可靠基础。
+
+133
+00:21:20,000 --> 00:21:30,000
+This raises a critical question: How do we ensure that the value created by AI is distributed in a way that actually improves overall quality of life for everyone...
+这引发了一个关键问题：我们如何确保 AI 创造的价值，能够真正改善每个人的整体生活质量……
+
+134
+00:21:30,000 --> 00:21:36,000
+rather than becoming even more concentrated among those who already control capital?
+而不是进一步集中在那些已经控制资本的巨头手中？
+
+135
+00:21:36,000 --> 00:21:40,000
+This is a core problem Pi intends to address.
+这就是 Pi 打算解决的一个核心问题。
+
+136
+00:21:40,000 --> 00:21:50,000
+Pi sees the ultimate utility of blockchain technology as an auditable and scalable mechanism for societal distribution and redistribution.
+Pi 将区块链技术的最终效用，视为一种可审计且可扩展的社会财富分配与再分配机制。
+
+137
+00:21:50,000 --> 00:21:56,000
+Over the past several years, Pi has built a widely distributed network as a foundation for that goal.
+在过去几年里，Pi 建立了一个广泛分布的网络，作为实现该目标的基础。
+
+138
+00:21:56,000 --> 00:22:00,000
+But having a distributed network alone is not enough.
+但仅仅拥有一个分布式网络是不够的。
+
+139
+00:22:00,000 --> 00:22:07,000
+To realize this ultimate utility, real production—both existing and new—must be brought on-chain.
+为了实现这种终极效用，真正的生产力（无论是现有的还是未来的）都必须上链。
+
+140
+00:22:07,000 --> 00:22:11,000
+Doing so presents significant challenges.
+要做到这一点，面临着巨大的挑战。
+
+141
+00:22:11,000 --> 00:22:18,000
+For existing forms of production, one of the biggest obstacles is identity: verified identity and verified ownership.
+对于现有的生产形式而言，最大的障碍之一是身份：经过验证的身份和所有权。
+
+142
+00:22:18,000 --> 00:22:25,000
+These are prerequisites for large-scale real-world production to move on-chain.
+这些是现实世界的大规模生产活动转移到链上的绝对先决条件。
+
+143
+00:22:25,000 --> 00:22:36,000
+Pi Network has invested heavily in solving this problem through its KYC solution, enabling identity verification at a global scale and providing a foundation for trusted participation in an on-chain economic activity.
+Pi Network 通过其 KYC 解决方案在解决这个问题上投入了大量资源，实现了全球规模的身份验证，并为可信地参与链上经济活动奠定了基础。
+
+144
+00:22:36,000 --> 00:22:42,000
+When it comes to new production, the picture is even clearer.
+谈到未来的新生产力，情况就更加清晰了。
+
+145
+00:22:42,000 --> 00:22:48,000
+The next generation of applications will almost certainly be either AI-powered or AI-native.
+下一代应用几乎肯定是由 AI 驱动，或者是 AI 原生的。
+
+146
+00:22:48,000 --> 00:22:52,000
+Yet the AI application layer is still in its early stages.
+然而，目前的 AI 应用层仍处于早期阶段。
+
+147
+00:22:52,000 --> 00:22:58,000
+Today, most user interaction with AI remains centered around chatbots.
+如今，大多数用户与 AI 的交互仍然局限于聊天机器人。
+
+148
+00:22:58,000 --> 00:23:08,000
+Even though the AI industry is actively experimenting with richer applications, new forms of social network, productivity tools, and AI-assisted workflows.
+尽管 AI 行业正在积极尝试更丰富的应用，比如新型社交网络、生产力工具以及 AI 辅助的工作流。
+
+149
+00:23:08,000 --> 00:23:15,000
+In the short to mid-term, Pi's focus at the intersection of AI and blockchain is therefore the AI application layer.
+因此，在中短期内，Pi 在 AI 与区块链交叉领域的重点发力方向，就是 AI 应用层。
+
+150
+00:23:15,000 --> 00:23:22,000
+Pi App Studio uses AI to empower app creation. Simpler developer libraries and tools...
+Pi App Studio 利用 AI 赋能应用开发。我们提供更简单的开发者库和工具……
+
+151
+00:23:22,000 --> 00:23:30,000
+which are meant to enable easy integration by third-party AI builders to build on top of Pi.
+旨在让第三方 AI 开发者能够轻松集成，并直接在 Pi 的基础上构建生态。
+
+152
+00:23:30,000 --> 00:23:36,000
+On the strategy level, Pi has combined bottom-up and top-down approaches.
+在战略层面，Pi 结合了自下而上（Bottom-up）和自上而下（Top-down）的双向策略。
+
+153
+00:23:36,000 --> 00:23:44,000
+Bottom-up efforts like App Studio enable large numbers of applications to be created, even though the signal-to-noise ratio can be high.
+像 App Studio 这样自下而上的努力使得大量应用得以诞生，尽管其中的“优劣比例”（信噪比）可能会很高。
+
+154
+00:23:44,000 --> 00:23:48,000
+This is expected and acceptable.
+这是预期之中，也是完全可以接受的。
+
+155
+00:23:48,000 --> 00:23:58,000
+At the same time, Pi complements this with a more top-down, high-signal strategy through Pi Network Ventures...
+同时，Pi 通过 Pi Network 创投基金，以一种更加自上而下、挖掘优质项目的高信号战略来做互补……
+
+156
+00:23:58,000 --> 00:24:06,000
+which invests in carefully vetted teams each year and works with them in a more high-touch way.
+该风投每年都会投资经过严格审查的精英团队，并以更深度的接触方式与他们合作。
+
+157
+00:24:06,000 --> 00:24:14,000
+Between these two strategies are initiatives in the middle, such as hackathons, developer programs...
+在这两种策略之间，我们还推出了居中的举措，比如黑客松、开发者支持计划……
+
+158
+00:24:14,000 --> 00:24:20,000
+which combine grassroots efforts with more structured guidance.
+这些举措将草根开发者的力量与更具结构化的官方指导完美结合。
+
+159
+00:24:20,000 --> 00:24:29,000
+Together, these strategies have sought to bootstrap, foster, and scale a vibrant ecosystem of AI-powered applications on Pi.
+通过这些战略的合力，我们致力于在 Pi 上启动、培育并扩展一个充满活力的 AI 驱动应用生态系统。
+
+160
+00:24:29,000 --> 00:24:36,000
+Looking further ahead, Pi's involvement with AI extends into AI infrastructure itself.
+再放眼长远，Pi 在 AI 领域的布局将深入到 AI 基础设施的底层。
+
+161
+00:24:36,000 --> 00:24:43,000
+This includes distributed computing for AI training, inference, and reinforcement learning.
+这包括用于 AI 模型训练、AI 推理以及强化学习的“分布式计算”（Distributed Computing）。
+
+162
+00:24:43,000 --> 00:24:52,000
+Pi is uniquely positioned here because it already has a large network of computing nodes—over 350,000...
+Pi 在这个赛道上占据着得天独厚的独特优势，因为它已经拥有一个庞大的计算节点网络——超过 35 万个节点……
+
+163
+00:24:52,000 --> 00:25:02,000
+and a global network of identity-verified human participants who could opt in to provide authentic human input for AI training, labeling, and reinforcement learning.
+以及一个由经过身份验证的真人参与者组成的全球网络。他们可以选择加入，为 AI 的训练、数据标注和强化学习提供真实的人类反馈。
+
+164
+00:25:02,000 --> 00:25:07,000
+In exchange for compensation in cryptocurrency by third-party clients.
+作为交换，他们将获得第三方 AI 客户支付的加密货币作为丰厚报酬。
+
+165
+00:25:07,000 --> 00:25:12,000
+Distributed AI training is still at the research stage in the world.
+在全球范围内，“分布式 AI 训练”目前仍处于前沿研究阶段。
+
+166
+00:25:12,000 --> 00:25:17,000
+Distributed AI training aligns naturally with the distributed network.
+但分布式 AI 训练与我们的分布式区块链网络天然契合。
+
+167
+00:25:17,000 --> 00:25:28,000
+And it may also help address some of the limitations of centralized training, such as data center constraints, energy concentration, and issues like catastrophic forgetting or global state bottlenecks.
+它有助于解决当前集中式 AI 训练的严重局限性，例如数据中心的算力瓶颈、能源过度集中，以及“灾难性遗忘”或全局状态瓶颈等技术难题。
+
+168
+00:25:28,000 --> 00:25:38,000
+While significant challenges remain, these are precisely the kinds of problems that require sustained research and long-term commitment to solve.
+尽管面临的挑战依然巨大，但这恰恰是那些需要投入持续研究和长期承诺才能攻克的终极难题。
+
+169
+00:25:38,000 --> 00:25:48,000
+We are actively exploring why and how a paradigm shift from fully centralized AI training to more distributed approaches could be feasible and efficient.
+我们正在积极探索，为何以及如何实现从“完全集中的 AI 训练”向“分布式训练”的范式转变，并验证其可行性与高效性。
+
+170
+00:25:48,000 --> 00:25:56,000
+Turning this into a meaningful contribution to AI infrastructure requires much deeper research.
+要将其转化为对人类 AI 基础设施的实质性贡献，需要进行更深层次的钻研。
+
+171
+00:25:56,000 --> 00:26:01,000
+Human participation is also a critical component.
+在此过程中，“人类的参与”也是极其关键的一环。
+
+172
+00:26:01,000 --> 00:26:10,000
+Pi's network of verified humans offers a unique resource for scalable and authentic human-in-the-loop systems in AI.
+Pi 庞大的“已验证真人网络”，为 AI 领域中极度渴求的、可扩展且真实的“人在回路”（Human-in-the-loop）系统提供了独一无二的资源库。
+
+173
+00:26:10,000 --> 00:26:15,000
+With compensation handled natively through blockchain-based payments.
+与此同时，所有参与者的薪酬结算，都可以通过基于区块链的支付网络原生处理。
+
+174
+00:26:15,000 --> 00:26:25,000
+Together, these elements—distributed computing, verified human input, and blockchain-based coordination—provide new approaches to AI learning and infrastructure.
+综上所述，分布式计算、经过验证的真人输入，加上基于区块链的信任协调——这些元素共同为 AI 的学习与基础设施开辟了全新的道路。
+
+175
+00:26:25,000 --> 00:26:31,000
+Trying to solve the world's hard problems is a long-term endeavor for anyone in the world.
+对于世界上的任何人来说，试图解决这些世界性的艰难问题，注定是一项长期的征程。
+
+176
+00:26:31,000 --> 00:26:35,000
+It means starting early is even more crucial.
+这意味着，尽早入局、提前布局变得尤为关键。
+
+177
+00:26:35,000 --> 00:26:42,000
+Because anything truly defensible takes time to build, be it technology or network effect.
+因为任何真正具备“防御壁垒”的事物都需要时间来沉淀，无论是硬核技术，还是强大的网络效应。
+
+178
+00:26:42,000 --> 00:26:52,000
+For example what Pi Network has achieved that provides strategic advantages and defensibility are Pi's KYC system, its scale...
+例如，Pi Network 如今所取得的、能够提供战略级优势和护城河的成就，正是 Pi 独创的 KYC 系统、它庞大的体量……
+
+179
+00:26:52,000 --> 00:26:58,000
+networks of millions of identity-verified human beings, hundreds of thousands of computer nodes...
+数百万经过身份验证的真实人类网络、数十万个分布式计算机节点……
+
+180
+00:26:58,000 --> 00:27:04,000
+and attention and engagement of the community in the tens of millions.
+以及数千万底层社区成员日复一日的关注与高频参与。
+
+181
+00:27:04,000 --> 00:27:12,000
+And they did not emerge overnight. Rather, they took years to build and efforts of the whole community.
+这些辉煌并非一朝一夕从天而降。相反，它们花费了我们数年时间，凝聚了整个社区的无数心血。
+
+182
+00:27:12,000 --> 00:27:23,000
+Similarly, contributing meaningfully to AI infrastructure through distributed system is extremely difficult, which is precisely why it must be explored early and persistently for a long haul.
+同样，试图通过分布式系统为全球 AI 基础设施做出有意义的贡献也是极其困难的。而这，恰恰也是为什么我们必须尽早开始，并为之进行持之以恒的长期探索。
+
+183
+00:27:23,000 --> 00:27:32,000
+We hope this gave Pioneers a clearer view of Pi's work, its impact, and the future ahead.
+我们希望今天这些分享，能让所有先锋更清晰地了解 Pi 正在做的工作、我们所产生的深远影响，以及充满希望的未来。
+
+184
+00:27:32,000 --> 00:27:40,000
+Happy One-Year Anniversary of the Open Network. Let's continue the journey.
+祝 Pi 开放网络上线一周年快乐。让我们继续这段伟大的旅程！
+
